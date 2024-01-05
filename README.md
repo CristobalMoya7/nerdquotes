@@ -4,6 +4,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Un buen programador nunca deja de aprender
+
+*Cristobal Moya*
+
+-------
+
 > Un buen back-end es como Batman; parece que no, pero siempre está ahí.
 
 *Alberto Casero*
