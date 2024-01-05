@@ -53,7 +53,7 @@ Esto elimina la rama title incluso si no está fusionada.
 
 git reflog
 git reset --hard
-Usamos git reflog para obtener el hash del commit antes de realizar el reset, y luego git reset --hard <hash_del_commit> para regresar al estado anterior.
+Usamos git reflog para obtener el hash del commit antes de realizar el reset, y luego git reset --hard para regresar al estado anterior.
 
 #### 12. ¿Qué comando o comandos utilizaste en el paso 32?
 
@@ -65,7 +65,7 @@ Esto nos permite volver al commit inicial.
 
 git reflog
 git reset --hard
-Usamos git reflog para obtener el hash del commit final antes de realizar el reset, y luego git reset --hard <hash_del_commit_final> para regresar al estado final.
+Usamos git reflog para obtener el hash del commit final antes de realizar el reset, y luego git reset --hard para regresar al estado final.
 
 #### 14. Crear los siguientes tags: inicial, styled, htmlify, title
 
